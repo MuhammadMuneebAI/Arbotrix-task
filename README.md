@@ -173,4 +173,5 @@ with gr.Blocks() as demo:
 demo.launch(share=True, debug=True)
 ```
 
-After running the Gradio cell, a public URL will be generated, allowing you to access the interactive demo in your web browser.
+After running the Gradio cell, a public URL will be generated, allowing you to access the interactive demo in your web browser.<img width="972" height="622" alt="pic1" src="https://github.com/user-attachments/assets/3f6d7a53-9f20-4858-a153-359bd789e815" />
+
